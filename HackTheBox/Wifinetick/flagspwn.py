@@ -1,5 +1,5 @@
 #!/usr/bin/python3 
-
+# https://mikerega7.github.io/htb-writeup-wifinetic/
 from pwn import *
 import time 
 import paramiko
